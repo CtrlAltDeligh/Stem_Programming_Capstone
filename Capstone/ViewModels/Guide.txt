@@ -1,0 +1,2 @@
+sa dri na folder, dri inyong logic para sa views, if paano mag work ang models, and 
+also dri ninyo e encapsulate ang logic and data na need sa views

@@ -1,0 +1,5 @@
+So bali dri na folder ang files sa views,
+for example mainpage or log in page, 
+dri sad ninyo ibutang ang mga file na may xaml na extensions.
+Once nag create mog new content page automatic na siya mag extension ug
+xaml.cs na file, sa xaml.csc na file didto ninyo ibutang ang functionalities sa inyong page eg. buttons.
