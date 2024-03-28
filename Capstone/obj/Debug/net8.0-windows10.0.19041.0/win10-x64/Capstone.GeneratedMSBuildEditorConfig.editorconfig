@@ -42,6 +42,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Capstone.Resources.Styles.
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/admin/Documents/JOY/1. CAPSTONE/Stem_Programming_Capstone/Capstone/Views/hehehe.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Capstone.Views.hehehe.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\hehehe.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\hehehe.xaml
+
 [C:/Users/admin/Documents/JOY/1. CAPSTONE/Stem_Programming_Capstone/Capstone/Views/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Capstone.Views.LoginPage.xaml
